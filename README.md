@@ -1,4 +1,4 @@
-# Talent Pool
+# Talent Pool 🏊‍♀️
 
 A React App as final project of the Web Development course at Ironhack, 2021.
 
